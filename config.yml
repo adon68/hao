@@ -42,13 +42,13 @@ content:
       sites:
         - name: gitea
           description: （LDAP）代码托管仓库
-          url: http://pang.honglei.vip:11400
+          url: https://gitlab.honglei.vip
         - name: JumpServer
           description: （LDAP）堡垒机
           url: http://pang.honglei.vip:1088
         - name: SonarQube
           description: （LDAP）代码质量扫描
-          url: http://www.ui.cn/
+          url: http://pang.honglei.vip:11501
     - name: 常用推荐
       sites:
         - name: 蓝湖
