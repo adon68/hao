@@ -42,10 +42,10 @@ content:
       sites:
         - name: gitea
           description: （LDAP）代码托管仓库
-          url: https://gitlab.honglei.vip
+          url: http://pang.honglei.vip:11307
         - name: JumpServer
           description: （LDAP）堡垒机
-          url: http://pang.honglei.vip:1088
+          url: http://pang.honglei.vip:11381
         - name: SonarQube
           description: （LDAP）代码质量扫描
           url: http://pang.honglei.vip:11501
@@ -59,7 +59,7 @@ content:
           url: https://b8ijl3262y.feishu.cn/messenger/
         - name: Jenkines
           description: （LADP）持续集成与持续部署
-          url: https://ci.hcece.com/
+          url: https://pang.honglei.vip:11380
         - name: TAPD
           description: 一站式敏捷研发协作云平台
           url: https://www.tapd.cn/cloud_logins/login
