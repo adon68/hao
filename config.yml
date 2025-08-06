@@ -46,8 +46,11 @@ content:
         - name: JumpServer
           description: （LDAP）堡垒机
           url: http://pang.honglei.vip:11381
-        - name: SonarQube
-          description: （LDAP）代码质量扫描
+        - name: Jenkines
+          description: （LADP）持续集成与持续部署
+          url: http://pang.honglei.vip:11380
+        - name: Dockge
+          description: （LDAP）Dockge
           url: http://pang.honglei.vip:11501
     - name: 常用推荐
       sites:
@@ -57,9 +60,6 @@ content:
         - name: 飞书
           description: 先进企业协作与管理平台
           url: https://b8ijl3262y.feishu.cn/messenger/
-        - name: Jenkines
-          description: （LADP）持续集成与持续部署
-          url: https://pang.honglei.vip:11380
         - name: TAPD
           description: 一站式敏捷研发协作云平台
           url: https://www.tapd.cn/cloud_logins/login
