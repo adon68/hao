@@ -40,13 +40,13 @@ content:
   categories:
     - name: 热门推荐
       sites:
-        - name: gitea
+        - name: GitLib
           description: （LDAP）代码托管仓库
           url: http://pang.honglei.vip:11307
         - name: JumpServer
           description: （LDAP）堡垒机
           url: http://pang.honglei.vip:11381
-        - name: Jenkines
+        - name: Jenkins
           description: （LADP）持续集成与持续部署
           url: http://pang.honglei.vip:11380
         - name: Drone
