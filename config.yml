@@ -49,11 +49,14 @@ content:
         - name: Jenkines
           description: （LADP）持续集成与持续部署
           url: http://pang.honglei.vip:11380
+        - name: Drone
+          description: （LDAP）Drone
+          url: http://pang.honglei.vip:11500
+    - name: 常用推荐
+      sites:
         - name: Dockge
           description: （LDAP）Dockge
           url: http://pang.honglei.vip:11501
-    - name: 常用推荐
-      sites:
         - name: 蓝湖
           description: 高效的产品设计协作平台
           url: https://lanhuapp.com/web/#/user/login
